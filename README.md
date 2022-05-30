@@ -1,2 +1,2 @@
 # DataStructure
-Data Structure course projects
+Data Structure projects
